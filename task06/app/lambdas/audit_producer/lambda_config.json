@@ -10,6 +10,7 @@
   "lambda_path": "lambdas\\audit_producer",
   "env_variables": {},
   "publish_version": false,
+  "alias": "learn",
   "url_config": {
     "auth_type": "NONE"
   },
